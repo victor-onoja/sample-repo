@@ -1,2 +1,2 @@
 # sample-repo
-a sample repo for learning git
+a sample repo for learning git, 2022
